@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView5" type="id" />
+    <item name="recyclerView4" type="id" />
+    <item name="recyclerView3" type="id" />
+    <item name="recyclerView2" type="id" />
+</resources>
